@@ -4,7 +4,7 @@
 /* ACTIONS */
 
 // action name creator
-const reducerName = 'global';
+/* const reducerName = 'global';
 const createActionName = name => `app/${reducerName}/${name}`;
 
 // action types
@@ -25,4 +25,4 @@ export default function reducer(state = [], action = {}) {
     default:
       return state;
   }
-}
+} */

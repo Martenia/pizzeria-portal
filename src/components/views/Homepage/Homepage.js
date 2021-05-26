@@ -4,7 +4,8 @@ import styles from './Homepage.scss';
 
 const Homepage = () => (
   <div className={styles.component}>
-      <h2>Homepage - dashboard</h2>
+      <h2>Homepage</h2>
+      <p>dashboard</p>
   </div>
 );
 

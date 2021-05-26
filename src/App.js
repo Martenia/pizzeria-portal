@@ -14,7 +14,7 @@ import Order from './components/views/Order/Order';
 const App = () => {
   return (
     <div className="App">
-      <BrowserRouter basename={'/panel'}>
+      <BrowserRouter>
         <MainLayout>
           <Switch>
           <Route exact path={process.env.PUBLIC_URL + '/'} component={Homepage} />
