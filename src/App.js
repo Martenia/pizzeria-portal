@@ -8,7 +8,7 @@ import Kitchen from './components/views/Kitchen/Kitchen';
 import Booking from './components/views/Booking/Booking';
 import Event from './components/views/Event/Event';
 import Tables from './components/views/Tables/Tables';
-import New from './components/views/NewOrder/NewOrder';
+import New from './components/views/New/New';
 import Order from './components/views/Order/Order';
 
 const App = () => {
